@@ -1,0 +1,443 @@
+[
+    {
+        "id": 1,
+        "order": 1,
+        "name": "A/MG-43 기관총 센트리",
+        "icon": "uploads/contents/stratagem/6228e26864c2463e82b01d6032783187.svg",
+        "command": 25335
+    },
+    {
+        "id": 2,
+        "order": 2,
+        "name": "A/M-12 박격포 센트리",
+        "icon": "uploads/contents/stratagem/dc2ffb8084ae45c5b26afa9db25c54d4.svg",
+        "command": 25332
+    },
+    {
+        "id": 3,
+        "order": 3,
+        "name": "EXO-45 애국자 엑소슈트",
+        "icon": "uploads/contents/stratagem/6d6c6b00f8914445aa2bc328fb6c30af.svg",
+        "command": 1235122
+    },
+    {
+        "id": 4,
+        "order": 4,
+        "name": "A/MSL-4X 로켓 센트리",
+        "icon": "uploads/contents/stratagem/1bd89cd5324b496689679fcf83f982d5.svg",
+        "command": 25331
+    },
+    {
+        "id": 5,
+        "order": 5,
+        "name": "A/AC-8 오토캐넌 센트리",
+        "icon": "uploads/contents/stratagem/5fda07e1fe1649ae91ad9edbee8652af.svg",
+        "command": 253515
+    },
+    {
+        "id": 6,
+        "order": 6,
+        "name": "A/M-23 EMS 박격포 센트리",
+        "icon": "uploads/contents/stratagem/55893cf321e144cca91389672d5a8603.svg",
+        "command": 25323
+    },
+    {
+        "id": 7,
+        "order": 7,
+        "name": "A/G-16 개틀링 센트리",
+        "icon": "uploads/contents/stratagem/90d1bbd02fca4aa89f23c1293a4bf185.svg",
+        "command": 2531
+    },
+    {
+        "id": 9,
+        "order": 11,
+        "name": "FAF-14 스피어",
+        "icon": "uploads/contents/stratagem/f9d5605628d349b4ab6aa441895df7f7.svg",
+        "command": 22522
+    },
+    {
+        "id": 10,
+        "order": 12,
+        "name": "M-105 스털워트",
+        "icon": "uploads/contents/stratagem/923f50019a2e4f13bc1fb87fd6b92fcd.svg",
+        "command": 212551
+    },
+    {
+        "id": 11,
+        "order": 13,
+        "name": "MG-43 기관총",
+        "icon": "uploads/contents/stratagem/60f0942ac41e4918ad685b8648d2824f.svg",
+        "command": 21253
+    },
+    {
+        "id": 12,
+        "order": 14,
+        "name": "RS-422 레일건",
+        "icon": "uploads/contents/stratagem/d94d562d8974431e954c2288abd2ad2f.svg",
+        "command": 232513
+    },
+    {
+        "id": 13,
+        "order": 15,
+        "name": "GR-8 무반동포",
+        "icon": "uploads/contents/stratagem/83f468c2cdc34da68ad42502fd8c50c4.svg",
+        "command": 21331
+    },
+    {
+        "id": 14,
+        "order": 16,
+        "name": "EAT-17 일회성 대전차",
+        "icon": "uploads/contents/stratagem/ef0594d80e0b4b1f8e125dcd8c630bfa.svg",
+        "command": 22153
+    },
+    {
+        "id": 15,
+        "order": 17,
+        "name": "FLAM-40 화염방사기",
+        "icon": "uploads/contents/stratagem/5c3edac63bc1434ca452ccd3b35eb21f.svg",
+        "command": 21525
+    },
+    {
+        "id": 16,
+        "order": 18,
+        "name": "MG-206 중기관총",
+        "icon": "uploads/contents/stratagem/aae3dd14b01f4a53b95a4592cdba7978.svg",
+        "command": 21522
+    },
+    {
+        "id": 17,
+        "order": 19,
+        "name": "APW-1 대물 소총",
+        "icon": "uploads/contents/stratagem/b005d98a897447e4936f6a14f25e9313.svg",
+        "command": 21352
+    },
+    {
+        "id": 18,
+        "order": 20,
+        "name": "AC-8 오토캐넌",
+        "icon": "uploads/contents/stratagem/4d06c8b1ec1945d998fa1c52582003e5.svg",
+        "command": 212553
+    },
+    {
+        "id": 19,
+        "order": 21,
+        "name": "궤도 120mm 고폭 폭격",
+        "icon": "uploads/contents/stratagem/34892627bec047c78a92cd2d0be174db.svg",
+        "command": 332132
+    },
+    {
+        "id": 20,
+        "order": 22,
+        "name": "궤도 380mm 고폭 폭격",
+        "icon": "uploads/contents/stratagem/47a1244babdd408e948197268d781936.svg",
+        "command": 3255122
+    },
+    {
+        "id": 21,
+        "order": 23,
+        "name": "궤도 공중폭발 타격",
+        "icon": "uploads/contents/stratagem/a6a55181e8d54b4e8548054046d6ebcf.svg",
+        "command": 333
+    },
+    {
+        "id": 22,
+        "order": 24,
+        "name": "궤도 개틀링 폭격",
+        "icon": "uploads/contents/stratagem/9d226b1ef61540b8be8e56a2cd3da616.svg",
+        "command": 32155
+    },
+    {
+        "id": 23,
+        "order": 25,
+        "name": "궤도 레이저",
+        "icon": "uploads/contents/stratagem/cbe87e21ef864678805208eb96d4276a.svg",
+        "command": 32532
+    },
+    {
+        "id": 24,
+        "order": 26,
+        "name": "궤도 레일캐넌 타격",
+        "icon": "uploads/contents/stratagem/dda44aa6208c43ebb14e79c31c638f62.svg",
+        "command": 35223
+    },
+    {
+        "id": 25,
+        "order": 27,
+        "name": "궤도 이동 폭격",
+        "icon": "uploads/contents/stratagem/08e99bd5f9f24e26b81ceff02f1c73ba.svg",
+        "command": 323232
+    },
+    {
+        "id": 26,
+        "order": 30,
+        "name": "이글 110mm 로켓 포드",
+        "icon": "uploads/contents/stratagem/5329e6e7bb2f40f7b8b3e0966b60bc37.svg",
+        "command": 5351
+    },
+    {
+        "id": 27,
+        "order": 31,
+        "name": "이글 500kg 폭탄",
+        "icon": "uploads/contents/stratagem/1eacf4944d3449f38885ccd396b26299.svg",
+        "command": 53222
+    },
+    {
+        "id": 28,
+        "order": 32,
+        "name": "이글 공중타격",
+        "icon": "uploads/contents/stratagem/38c35d9a4d7c4b46926be125b1b31241.svg",
+        "command": 5323
+    },
+    {
+        "id": 29,
+        "order": 33,
+        "name": "이글 집속탄",
+        "icon": "uploads/contents/stratagem/2c15bb0deda84459a6e028891dee008c.svg",
+        "command": 53223
+    },
+    {
+        "id": 30,
+        "order": 34,
+        "name": "이글 네이팜 공중타격",
+        "icon": "uploads/contents/stratagem/511e8245f8354a71a5ffc48b52a09182.svg",
+        "command": 5325
+    },
+    {
+        "id": 31,
+        "order": 35,
+        "name": "이글 재무장",
+        "icon": "uploads/contents/stratagem/f32b565bb8744f79b2d566389040df8a.svg",
+        "command": 55153
+    },
+    {
+        "id": 32,
+        "order": 36,
+        "name": "이글 연막 타격",
+        "icon": "uploads/contents/stratagem/2d6f5783fd2c4c99b5890c458d925842.svg",
+        "command": 5352
+    },
+    {
+        "id": 33,
+        "order": 37,
+        "name": "이글 기총소사",
+        "icon": "uploads/contents/stratagem/c5dc32c5f8754e5189c9e01d6ba1bdae.svg",
+        "command": 533
+    },
+    {
+        "id": 34,
+        "order": 38,
+        "name": "LIFT-850 점프팩",
+        "icon": "uploads/contents/stratagem/8e62b38476514c83a8549ffcab28526a.svg",
+        "command": 25525
+    },
+    {
+        "id": 35,
+        "order": 40,
+        "name": "지옥 폭탄",
+        "icon": "uploads/contents/stratagem/39af943b0f574d7e81686497afd7aac6.svg",
+        "command": 25125325
+    },
+    {
+        "id": 36,
+        "order": 41,
+        "name": "재보급",
+        "icon": "uploads/contents/stratagem/b06faa6a99bf4291871e78b39c640d18.svg",
+        "command": 2253
+    },
+    {
+        "id": 37,
+        "order": 42,
+        "name": "SEAF 야포",
+        "icon": "uploads/contents/stratagem/1b0bfc5a4f7542fcb0424b7dc21e38bf.svg",
+        "command": 3552
+    },
+    {
+        "id": 38,
+        "order": 50,
+        "name": "MD-6 대인 지뢰 매설 지역",
+        "icon": "uploads/contents/stratagem/1fc44535b4b547f0b28632e06647f10f.svg",
+        "command": 2153
+    },
+    {
+        "id": 39,
+        "order": 51,
+        "name": "ARC-3 아크 발사기",
+        "icon": "uploads/contents/stratagem/de7fa0e3403d41669efcec7b386966dc.svg",
+        "command": 232511
+    },
+    {
+        "id": 40,
+        "order": 52,
+        "name": "SH-20 탄도 방패 배낭",
+        "icon": "uploads/contents/stratagem/573316e2a5e8494dbb4369e1794690d3.svg",
+        "command": 212251
+    },
+    {
+        "id": 41,
+        "order": 53,
+        "name": "GL-21 유탄 발사기",
+        "icon": "uploads/contents/stratagem/79f62e5ce46a418c9f502d11ea93c7ce.svg",
+        "command": 21512
+    },
+    {
+        "id": 42,
+        "order": 54,
+        "name": "AX/LAS-5 ‘가드 독’ 로버",
+        "icon": "uploads/contents/stratagem/b1cbf19316a746cbb7ee1f1d97fece5b.svg",
+        "command": 251533
+    },
+    {
+        "id": 43,
+        "order": 55,
+        "name": "MD-I4 소이 지뢰",
+        "icon": "uploads/contents/stratagem/28c13d75571b4a84b7bcb31c49dcfb97.svg",
+        "command": 2112
+    },
+    {
+        "id": 44,
+        "order": 56,
+        "name": "LAS-98 레이저 캐넌",
+        "icon": "uploads/contents/stratagem/6d9bb90ffbc9480fb1c413c1c4552dbe.svg",
+        "command": 21251
+    },
+    {
+        "id": 45,
+        "order": 58,
+        "name": "LAS-99 퀘이사 캐넌",
+        "icon": "uploads/contents/stratagem/5937b5edc2d84631972bbf1d77783def.svg",
+        "command": 22513
+    },
+    {
+        "id": 46,
+        "order": 59,
+        "name": "SH-32 방어막 생성 팩",
+        "icon": "uploads/contents/stratagem/ac4300110dd14fab8e081cd13057f6d9.svg",
+        "command": 251313
+    },
+    {
+        "id": 47,
+        "order": 59,
+        "name": "B-1 보급 팩",
+        "icon": "uploads/contents/stratagem/4304c97af5b74d38b281c296f77ec8a9.svg",
+        "command": 212552
+    },
+    {
+        "id": 48,
+        "order": 43,
+        "name": "지진 탐사기",
+        "icon": "uploads/contents/stratagem/83cbe74d562f42c89e9e70e4aee59409.svg",
+        "command": 551322
+    },
+    {
+        "id": 49,
+        "order": 43,
+        "name": "탐광 드릴",
+        "icon": "uploads/contents/stratagem/146a7aef99604aac874b3c3b6d1bf1ab.svg",
+        "command": 221322
+    },
+    {
+        "id": 50,
+        "order": 44,
+        "name": "SOS 신호기",
+        "icon": "uploads/contents/stratagem/c9f6e4a9bcf24c628424ced9efdc43c5.svg",
+        "command": 5235
+    },
+    {
+        "id": 51,
+        "order": 45,
+        "name": "증원",
+        "icon": "uploads/contents/stratagem/7cadaa3e97e34ccdb41a0b7fbdcc3591.svg",
+        "command": 52315
+    },
+    {
+        "id": 52,
+        "order": 46,
+        "name": "슈퍼 지구 깃발",
+        "icon": "uploads/contents/stratagem/56016b9c72424ed18eb58d0c700775a4.svg",
+        "command": 2525
+    },
+    {
+        "id": 53,
+        "order": 47,
+        "name": "데이터 업로드",
+        "icon": "uploads/contents/stratagem/96ddef034f464955b7f0f5a21e70d123.svg",
+        "command": 13555
+    },
+    {
+        "id": 54,
+        "order": 49,
+        "name": "궤도 조명 플레어",
+        "icon": "uploads/contents/stratagem/a8852a332fcb41c98f4561f410a62b5a.svg",
+        "command": 3311
+    },
+    {
+        "id": 55,
+        "order": 70,
+        "name": "E/MG-101 중기관총 거치포",
+        "icon": "uploads/contents/stratagem/aa42f6e40e7f43e183b40c1298be7a9e.svg",
+        "command": 251331
+    },
+    {
+        "id": 56,
+        "order": 71,
+        "name": "궤도 EMS 타격",
+        "icon": "uploads/contents/stratagem/f4c55831b1e04f82a3f6da351c360ff6.svg",
+        "command": 3312
+    },
+    {
+        "id": 57,
+        "order": 72,
+        "name": "궤도 가스 타격",
+        "icon": "uploads/contents/stratagem/53b3d3bf069349ea80a4bee3b20c34c3.svg",
+        "command": 3323
+    },
+    {
+        "id": 58,
+        "order": 73,
+        "name": "궤도 정밀 타격",
+        "icon": "uploads/contents/stratagem/bb7f0b13cd1f41bba2e16193059cc925.svg",
+        "command": 335
+    },
+    {
+        "id": 59,
+        "order": 74,
+        "name": "궤도 연막 타격",
+        "icon": "uploads/contents/stratagem/2f01ae3f889449e2a50e369169966d17.svg",
+        "command": 3325
+    },
+    {
+        "id": 60,
+        "order": 75,
+        "name": "FX-12 방어막 생성 릴레이",
+        "icon": "uploads/contents/stratagem/d9ccd529450d410281fe42cf5c140c9b.svg",
+        "command": 221313
+    },
+    {
+        "id": 61,
+        "order": 76,
+        "name": "A/ARC-3 테슬라 탑",
+        "icon": "uploads/contents/stratagem/1a3bae1535ab4674973030b24c4c0466.svg",
+        "command": 253513
+    },
+    {
+        "id": 62,
+        "order": 8,
+        "name": "AX/AR-23 '가드 독'",
+        "icon": "uploads/contents/stratagem/7a6405b0bf6c46d5964d8b631bb5b051.svg",
+        "command": 251532
+    },
+    {
+        "id": 63,
+        "order": 81,
+        "name": "다크 플루이드 용기",
+        "icon": "uploads/contents/stratagem/dae250df54d34ea4ab9363555b31dbbe.svg",
+        "command": 513255
+    },
+    {
+        "id": 64,
+        "order": 82,
+        "name": "지각 표면 드릴",
+        "icon": "uploads/contents/stratagem/beb081bb5d894273af719438a76421c2.svg",
+        "command": 525252
+    }
+]
